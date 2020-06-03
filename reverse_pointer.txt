@@ -1,0 +1,10 @@
+
+?? = tcudorp* //
+
+
+;2munp + 1munp = tcudorp
+;tcudorp* tni
+;2mun& = 2munp* tni
+;1mun& = 1munp* tni
+;01 = 2mun tni
+;52 = 1mun tni

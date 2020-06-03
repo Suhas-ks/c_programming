@@ -1,0 +1,9 @@
+int num1 = 25;
+int num2 = 10;
+int *pnum1 = &num1;
+int *pnum2 = &num2;
+int *product;
+product = pnum1 + pnum2;
+
+
+// *product = ??
